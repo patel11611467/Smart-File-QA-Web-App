@@ -1,0 +1,76 @@
+/* App.css */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+  color: #333;
+}
+
+.container {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+input[type="file"] {
+  display: block;
+  margin: 20px auto;
+}
+
+.preview img,
+.preview video {
+  max-width: 100%;
+  margin: 10px 0;
+  border-radius: 4px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+input[type="email"],
+textarea,
+button {
+  font-size: 1rem;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+input[type="email"],
+textarea {
+  border: 1px solid #ccc;
+  width: 100%;
+}
+
+button {
+  background: #556ee6;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+button:hover {
+  background: #4154b4;
+}
+
+.responses {
+  margin-top: 20px;
+}
+
+.response-item {
+  background: #f1f5f9;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
