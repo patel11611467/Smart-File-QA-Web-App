@@ -32,7 +32,7 @@ A single-page web app where users can upload files, ask questions about them usi
 ## Installation & Setup
 
 ### 1. Clone repo
-- git clone https://github.com/<your-username>/Smart-File-QA-Web-App.git
+- https://github.com/patel11611467/Smart-File-QA-Web-App
 - cd Smart-File-QA-Web-App
 
 ### 2. Install backend
