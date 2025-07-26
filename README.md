@@ -27,6 +27,7 @@ A single-page web app where users can upload files, ask questions about them usi
 - PORT=4000
 - EMAIL_USER=
 - EMAIL_PASS=
+- TOGETHER_API_KEY=your_together_api_key
 
 
 ## Installation & Setup
