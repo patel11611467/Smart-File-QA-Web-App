@@ -23,28 +23,27 @@ A single-page web app where users can upload files, ask questions about them usi
 ---
 
 ## Environment Variables
-Create `.env` file in root with:
-PORT=4000
-# OPENAI_API_KEY=
-EMAIL_USER=
-EMAIL_PASS=
+- Create `.env` file in root with:
+- PORT=4000
+- EMAIL_USER=
+- EMAIL_PASS=
 
 
 ## Installation & Setup
 
 ### 1. Clone repo
-git clone https://github.com/<your-username>/Smart-File-QA-Web-App.git
-cd Smart-File-QA-Web-App
+- git clone https://github.com/<your-username>/Smart-File-QA-Web-App.git
+- cd Smart-File-QA-Web-App
 
 ### 2. Install backend
-cd backend
-npm install
-node index.js
+- cd backend
+- npm install
+- node index.js
 
 ### 3. Install frontend
-cd frontend
-npm install
-npm start
+- cd frontend
+- npm install
+- npm start
 
 ## Usage
 1. Open `http://localhost:3000`
