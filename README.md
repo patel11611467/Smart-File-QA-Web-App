@@ -36,12 +36,12 @@ A single-page web app where users can upload files, ask questions about them usi
 - https://github.com/patel11611467/Smart-File-QA-Web-App
 - cd Smart-File-QA-Web-App
 
-### 2. Install backend
+### 2. Setup backend 
 - cd backend
 - npm install
 - node index.js
 
-### 3. Install frontend
+### 3. Setup frontend
 - cd frontend
 - npm install
 - npm start
