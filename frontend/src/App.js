@@ -77,7 +77,7 @@ const exportPdfAndEmail = async ()=>{
     }
   } catch (err) {
     console.error('Export error:', err);
-    setExportMessage('❌ Error: ' + (err.response?.data?.error || err.message));
+    setExportMessage(' Error: ' + (err.response?.data?.error || err.message));
   } 
 };
 
