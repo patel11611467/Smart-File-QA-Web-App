@@ -52,7 +52,3 @@ A single-page web app where users can upload files, ask questions about them usi
 3. Export answers to PDF & send via email
 
 
-# = Heading 1
-## = Heading 2
-- = Bullet point
-Triple backticks (```) = Code block
